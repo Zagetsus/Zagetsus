@@ -48,12 +48,24 @@
 </h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zagetsus&show_icons=true&hide_border=true&bg_color=0A0A0C&title_color=C1121F&text_color=F2F0ED&icon_color=E21D2D" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zagetsus&layout=compact&hide_border=true&bg_color=0A0A0C&title_color=C1121F&text_color=F2F0ED" alt="Top Languages" />
+  <img
+    src="./assets/metrics/github-stats.svg"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="./assets/metrics/languages.svg"
+    alt="Top Languages"
+    width="49%"
+  />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zagetsus&bg_color=0A0A0C&color=F2F0ED&line=C1121F&point=E21D2D&area=true&hide_border=true" alt="Contribution Activity" />
+  <img
+    src="./assets/metrics/contributions.svg"
+    alt="Contribution Activity"
+    width="100%"
+  />
 </p>
 
 ---
