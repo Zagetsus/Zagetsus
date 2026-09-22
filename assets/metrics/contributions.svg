@@ -16,24 +16,35 @@ text {
  fill: #F2F0ED !important;
 }
 
-/* Lunar Wolf contribution colors */
-rect[fill="#ebedf0"] {
+a {
+ color: #C1121F !important;
+}
+
+:root {
+ --color-calendar-graph-day-bg: #18181C !important;
+ --color-calendar-graph-day-L1-bg: #720E17 !important;
+ --color-calendar-graph-day-L2-bg: #920F1A !important;
+ --color-calendar-graph-day-L3-bg: #C1121F !important;
+ --color-calendar-graph-day-L4-bg: #E21D2D !important;
+}
+
+[fill="#ebedf0"] {
  fill: #18181C !important;
 }
 
-rect[fill="#9be9a8"] {
+[fill="#9be9a8"] {
  fill: #720E17 !important;
 }
 
-rect[fill="#40c463"] {
+[fill="#40c463"] {
  fill: #920F1A !important;
 }
 
-rect[fill="#30a14e"] {
+[fill="#30a14e"] {
  fill: #C1121F !important;
 }
 
-rect[fill="#216e39"] {
+[fill="#216e39"] {
  fill: #E21D2D !important;
 }</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
