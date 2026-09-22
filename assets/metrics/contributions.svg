@@ -16,10 +16,7 @@ text {
  fill: #F2F0ED !important;
 }
 
-a {
- color: #C1121F !important;
-}
-
+/* Lunar Wolf contribution colors */
 rect[fill="#ebedf0"] {
  fill: #18181C !important;
 }
