@@ -21,7 +21,7 @@ jobs:
           filename: assets/metrics/github-stats.svg
 
           template: classic
-          base: header
+          base: header, activity
           config_timezone: America/Sao_Paulo
 
           extras_css: |
@@ -42,6 +42,25 @@ jobs:
               color: #C1121F !important;
             }
 
+            [fill="#ebedf0"] {
+              fill: #18181C !important;
+            }
+
+            [fill="#9be9a8"] {
+              fill: #720E17 !important;
+            }
+
+            [fill="#40c463"] {
+              fill: #920F1A !important;
+            }
+
+            [fill="#30a14e"] {
+              fill: #C1121F !important;
+            }
+
+            [fill="#216e39"] {
+              fill: #E21D2D !important;
+            }
       - name: Top Languages
         uses: lowlighter/metrics@latest
         with:
